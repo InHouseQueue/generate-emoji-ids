@@ -1,5 +1,5 @@
 # Custom Emoji List Bot
-This script creates a Discord bot using the disnake library, which is a fork of discord.py with native support for slash commands. The bot has two slash commands: /ping and /listemojis. The /ping command checks if the bot is online, and the /listemojis command sends a list of custom emojis with their IDs from the server where the command is executed.
+This script creates a Discord bot using the disnake library, which is a fork of discord.py with native support for slash commands. The bot has two slash commands: `/ping` and `/listemojis`. The `/ping` command checks if the bot is online, and the `/listemojis` command sends a list of custom emojis with their IDs from the server where the command is executed.
 
 ## How it works
 The bot connects to the Discord API using the disnake library and listens for incoming events, such as slash commands. When a user issues a slash command, the corresponding command function is executed, and the bot responds with the appropriate message.
