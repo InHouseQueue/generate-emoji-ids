@@ -1,4 +1,4 @@
-# Custom Emoji List Bot
+# Discord Emoji ID List
 This script creates a Discord bot using the disnake library, which is a fork of discord.py with native support for slash commands. 
 
 ## Features:
